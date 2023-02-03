@@ -1,3 +1,9 @@
+# 🚀 Desafio #05 do #boraCodar 
+Deploy da aplicação: https://challenge-rocketseat-calculator.vercel.app/
+
+## 🧠 Contexto
+Desenvolva uma calculadora. Você pode ir além e adicionar estados para os botões e animações, por exemplo, além de tornar a calculadora funcional.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
